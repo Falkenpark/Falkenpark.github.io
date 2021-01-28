@@ -21,27 +21,27 @@ h1 {
 }
 
 h2 {
-    text-align: center;
+    text -align: center;
 }
 
 h3 {
     padding-top: 30px;
 }
 
+
 h6 {
     padding-top: 20px;
 }
+
 
 table {
   border-collapse: separate; 
   border-spacing: 3em 1em; 
   text-align: center;
   border-color: black;
+  margin-bottom: 50px;
 }
 
-h7 {
-    padding-top: 50px;
-}
 
 .article {
     height: 120px;
@@ -75,3 +75,4 @@ footer p {
     margin-right: 20px;
     color: #777;
 }
+
