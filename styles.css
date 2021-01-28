@@ -28,6 +28,21 @@ h3 {
     padding-top: 30px;
 }
 
+h6 {
+    padding-top: 20px;
+}
+
+table {
+  border-collapse: separate; 
+  border-spacing: 3em 1em; 
+  text-align: center;
+  border-color: black;
+}
+
+h7 {
+    padding-top: 20px;
+}
+
 footer {
     clear: both;
     background-color: darkgray;
@@ -53,19 +68,4 @@ footer p {
     text-align: right;
     margin-right: 20px;
     color: #777;
-}
-
-h6 {
-    padding-top: 20px;
-}
-
-h7 {
-    padding-top: 20px;
-}
-
-table {
-  border-collapse: separate; 
-  border-spacing: 3em 1em; 
-  text-align: center;
-  border-color: black;
 }
