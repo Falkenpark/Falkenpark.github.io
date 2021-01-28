@@ -62,5 +62,6 @@ h6 {
 table {
   border-collapse: separate; 
   border-spacing: 3em 1em; 
-  text-align: center
+  text-align: center;
+  border-color: black;
 }
