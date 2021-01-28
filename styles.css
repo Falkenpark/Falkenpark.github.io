@@ -49,34 +49,5 @@ table {
     margin-bottom: 200px;
 }
 
-h7 {
-    margin-bottom: 200px;
-}
 
-footer {
-    clear: both;
-    background-color: darkgrey;
-    border: 1px solid #dedcd9;
-    border-radius: 5px;
-    height: 40px;
-    width: 960px;
-}
-
-footer ul {
-    float: left;
-    list-style: none;
-    padding: 0px;
-    margin: 20px;
-}
-
-footer li {
-    margin-right: 15px;
-    display: inline;
-}
-
-footer p {
-    text-align: right;
-    margin-right: 20px;
-    color: #777;
-}
 
