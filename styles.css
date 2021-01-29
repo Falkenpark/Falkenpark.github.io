@@ -16,6 +16,26 @@ header {
     text-align: center;
 }
 
+a {
+    color: #777;
+    text-decoration: none;
+}
+
+section {
+    width: 350px;
+    float: left;
+}
+
+aside {
+    width: 610px;
+    float: right;
+}
+
+p { 
+    margin-top: 160px;
+    margin-left: 25px;
+    margin-right: 25px;
+
 h1 {
    text-align: center;
    padding-top: 30px;
