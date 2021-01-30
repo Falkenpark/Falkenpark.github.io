@@ -30,7 +30,7 @@ h6 {
 }
 
 
-table {
+.table1 {
   border-collapse: separate; 
   border-spacing: 3em 1em; 
   text-align: center;
@@ -43,6 +43,14 @@ table {
     height: 120px;
     margin-top: 50px;
     margin-bottom: 400px;
+}
+
+.table2
+{
+    text-align: center;
+    margin-left: 15px;
+    border-color: black;
+    margin-top: 50px;   
 }
 
 
